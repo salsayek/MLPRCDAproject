@@ -115,6 +115,3 @@ The notebook uses Python libraries such as:
 - matplotlib
 - scikit-learn
 
-## Notes
-
-The results should be interpreted carefully because the dataset is limited in size and comes from a wearable device. Wearable sleep-stage estimates can contain measurement noise. The analysis is observational, so it shows associations and prediction patterns rather than causal effects.
