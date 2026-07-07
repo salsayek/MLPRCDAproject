@@ -107,12 +107,6 @@ The repository contains:
 - project poster
 - README file
 
-## How to run the notebook
-
-1. Open the notebook in Google Colab or Jupyter Notebook.
-2. Upload the required CSV files or place them in the same folder as the notebook.
-3. Run the cells from top to bottom.
-4. Generated figures and output files will be saved automatically.
 
 The notebook uses Python libraries such as:
 
